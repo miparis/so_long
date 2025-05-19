@@ -83,4 +83,4 @@ Maps are `.ber` files and must follow these rules:
 
 
 ---
-👨‍💻 Developed by @miparis. For a more detailed guide of the implementation go to https://miparis.gitbook.io/www.42miparis.com
+👨‍💻 Developed by @miparis. For a more detailed guide of the implementation go to [https://miparis.gitbook.io/www.42miparis.com](https://miparis.gitbook.io/42bymiparis/so_long/)
